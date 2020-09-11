@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
         android:ems="10"/>
-    <TextView
+    <TextVie
         android:id="@+id/secTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
